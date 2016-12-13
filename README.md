@@ -1,2 +1,19 @@
 # Ridss-Echoes-Player
-angular 2 final released project using youtube api - also available on <a href="https://chrome.google.com/webstore/detail/echoes-player/aaenpaopfebcmdaegggjbkhaedlbbkde?utm_source=chrome-app-launcher-info-dialog">chrome app store</a> 
+
+***It's fun & easy to listen or watch videos from youtube with Echoes.***
+
+
+	***What if youtube was designed to be used as music player?***
+
+
+***This repository is an implementation of Echoes Player with angular 2 -***
+
+
+	***
+Echoes Player is also available as a [Chrome Application](https://chrome.google.com/webstore/detail/echoes-player/aaenpaopfebcmdaegggjbkhaedlbbkde)
+
+***
+
+
+***It can be regarded as the Media Player experience for youtube listening pleasure.***
+
